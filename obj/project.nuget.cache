@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cn8y7Yiv2LM=",
+  "success": true,
+  "projectFilePath": "/Users/katesky/Documents/github/ContosoPizza/ContosoPizza.csproj",
+  "expectedPackageFiles": [
+    "/Users/katesky/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0/microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "/Users/katesky/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512",
+    "/Users/katesky/.nuget/packages/minimalapis.extensions/0.11.0/minimalapis.extensions.0.11.0.nupkg.sha512",
+    "/Users/katesky/.nuget/packages/minivalidation/0.8.0/minivalidation.0.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
